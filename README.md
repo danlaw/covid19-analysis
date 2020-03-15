@@ -6,5 +6,7 @@ Python notebook covid.ipynb builds basic COVID19 charts based on JHU CSSE's http
 ## How to use
 Just open the notebook covid.ipynb in a tool like JupyterLab. Must have basic python libraries installed (pandas, numpy, matplotlib).
 
+You can change variables like ``MovingAveDays`` to adjust the number of days in the moving average.
+
 ## Latest chart
 ![Latest chart](20200314-covid-chart.png)
