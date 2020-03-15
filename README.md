@@ -7,4 +7,4 @@ Python notebook covid.ipynb builds basic COVID19 charts based on JHU CSSE's http
 Just open in a notebook environment like Anaconda. Must have basic libraries installed (pandas, numpy, matplotlib).
 
 ## Latest chart
-![Latest chart](link-to-image)
+![Latest chart](20200314-covid-chart.png)
