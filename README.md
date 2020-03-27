@@ -1,7 +1,5 @@
 # covid19-analysis
 
-No updates yet for March 26, 2020 - data pending
-
 ## Overview
 Python notebook [covid2.ipynb](https://github.com/danlaw/covid19-analysis/blob/master/covid2.ipynb) builds basic charts on the spread of COVID19 based on JHU CSSE's https://github.com/CSSEGISandData/COVID-19.
 
