@@ -11,4 +11,4 @@ Just open the notebook covid2.ipynb in a tool like JupyterLab. Must have basic p
 You can change variables like ``MovingAveDays`` to adjust the number of days in the moving average.
 
 ## Latest chart
-![Latest chart](charts/20200328-covid19-chart.png)
+![Latest chart](charts/20200329-covid19-chart.png)
