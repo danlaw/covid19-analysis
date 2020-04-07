@@ -14,10 +14,10 @@ You can change variables like ``MovingAveDays`` to adjust the number of days in 
 ![Latest chart](charts/20200406-covid19-chart.png)
 
 ## New chart comparing new cases per day vs deaths per day (x 20 for visible comparison)
-![Comparison chart](charts/20200406-covid19-comparison-chart.png)
+![Comparison chart](charts/20200406-comparison-chart.png)
 
 ## New chart comparing new cases per day vs recoveries per day
-![Recovery chart](charts/20200406-covid19-comparison-recovery-chart.png)
+![Recovery chart](charts/20200406-comparison-recovery-chart.png)
 
 ## New chart comparing new cases per day vs deaths per day for select states
 ![Recovery chart](charts/20200406-covid19-states.png)
