@@ -21,3 +21,6 @@ You can change variables like ``MovingAveDays`` to adjust the number of days in 
 
 ## New chart comparing new cases per day vs deaths per day for select states
 ![Recovery chart](charts/20200407-covid19-states.png)
+
+## New chart comparing all US territories (cases and deaths x 20)
+![Recovery chart](charts/20200407-compare-US-territories.png)
