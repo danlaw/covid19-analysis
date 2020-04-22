@@ -11,7 +11,7 @@ Just open the notebook covid2.ipynb in a tool like JupyterLab. Must have basic p
 You can change variables like ``MovingAveDays`` to adjust the number of days in the moving average.
 
 ## Latest chart
-![Latest chart](charts/20200421-covid21-chart.png)
+![Latest chart](charts/20200421-covid19-chart.png)
 
 ## New chart comparing new cases per day vs deaths per day (x 20 for visible comparison)
 ![Comparison chart](charts/20200421-comparison-chart.png)
