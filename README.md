@@ -27,3 +27,6 @@ You can change variables like ``MovingAveDays`` to adjust the number of days in 
 
 ## New chart comparing urban vs rural cases and deaths (per capita)
 ![Recovery chart](charts/20200427-US-counties-urban-vs-rural-per-capita.png)
+
+## New chart comparing ratio of per capita urban vs rural cases and deaths
+![Recovery chart](charts/20200427-US-counties-urban-vs-rural-per-capita-ratios.png)
