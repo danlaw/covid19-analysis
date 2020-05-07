@@ -20,13 +20,13 @@ You can change variables like ``MovingAveDays`` to adjust the number of days in 
 ![Recovery chart](charts/20200506-comparison-recovery-chart.png)
 
 ## New chart comparing new cases per day vs deaths per day for select states
-![Recovery chart](charts/20200506-covid19-states.png)
+![Select states chart](charts/20200506-covid19-states.png)
 
 ## New chart comparing all US territories (cases and deaths x 20)
-![Recovery chart](charts/20200506-compare-US-territories.png)
+![Territories chart](charts/20200506-compare-US-territories.png)
 
 ## New chart comparing urban vs rural cases and deaths (per capita)
-![Recovery chart](charts/20200506-US-counties-urban-vs-rural-per-capita.png)
+![Urban vs rural chart](charts/20200506-US-counties-urban-vs-rural-per-capita.png)
 
 ## New chart comparing ratio of per capita urban vs rural cases and deaths
-![Recovery chart](charts/20200506-US-counties-urban-vs-rural-per-capita-ratios.png)
+![Urban rural per capita chart](charts/20200506-US-counties-urban-vs-rural-per-capita-ratios.png)
