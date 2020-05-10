@@ -1,10 +1,10 @@
 # covid19-analysis
 
 ## Overview
-Python notebook [covid2.ipynb](https://github.com/danlaw/covid19-analysis/blob/master/covid2.ipynb) builds:
-* basic country-based charts on the spread of COVID19 based on JHU CSSE's https://github.com/CSSEGISandData/COVID-19
-* state-based charts based on data from New York Times' https://github.com/nytimes/covid-19-data
-* US county-based charts based on data from [USAFACTS](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
+Python notebook [covid2.ipynb](https://github.com/danlaw/covid19-analysis/blob/master/covid2.ipynb) builds COVID19 charts based on:
+* Country data from JHU CSSE's https://github.com/CSSEGISandData/COVID-19
+* US state data from New York Times' https://github.com/nytimes/covid-19-data
+* US county data from [USAFACTS](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
 
 Note: [covid.ipynb](https://github.com/danlaw/covid19-analysis/blob/master/covid.ipynb) builds charts on data from JHU CSSE's older and now depracated COVID19 data files.
 
