@@ -17,7 +17,7 @@ You can change variables like ``MovingAveDays`` to adjust the number of days in 
 ![Latest chart](charts/20200603-covid19-chart.png)
 
 ## New chart looking at deaths and cases daily stats by continent
-![Comparison chart](charts/20200603-covid19-chart.png)
+![Comparison chart](charts/20200603-covid19-chart-perday.png)
 
 ## New chart comparing new cases per day vs deaths per day (x 20 for visible comparison)
 ![Comparison chart](charts/20200603-comparison-chart-perday.png)
