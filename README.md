@@ -22,8 +22,8 @@ You can change variables like ``MovingAveDays`` to adjust the number of days in 
 ## New chart comparing ratio of new cases urban vs rural (adjusted per capita)
 ![Urban rural per capita chart](charts/20200701-US-counties-urban-vs-rural-per-capita.png)
 
-## New chart comparing ratio of new cases Red States vs Blue States
-![Red vs Blue chart](charts/20200701-compare-daily-new-cases-red-vs-blue-state.png)
+## New chart comparing Red States vs Blue States
+![Red vs Blue chart](charts/20200701-compare-daily-red-vs-blue-states.png)
 
 ## New chart comparing new cases per day vs deaths per day (x 20 for visible comparison)
 ![Comparison chart](charts/20200701-comparison-chart.png)
