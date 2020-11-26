@@ -14,23 +14,23 @@ Just open the notebook covid2.ipynb in a tool like JupyterLab. Must have basic p
 You can change variables like ``MovingAveDays`` to adjust the number of days in the moving average.
 
 ## Latest chart
-![Latest chart](charts/20201124-covid19-chart.png)
+![Latest chart](charts/20201125-covid19-chart.png)
 
 ## New chart looking at deaths and cases daily stats by continent
-![Comparison chart](charts/20201124-covid20-chart-perday.png)
+![Comparison chart](charts/20201125-covid20-chart-perday.png)
 
 ## New chart comparing ratio of new cases urban vs rural (adjusted per capita)
-![Urban rural per capita chart](charts/20201124-US-counties-urban-vs-rural-per-capita.png)
+![Urban rural per capita chart](charts/20201125-US-counties-urban-vs-rural-per-capita.png)
 
 ## New chart comparing Red States vs Blue States
-![Red vs Blue chart](charts/20201124-compare-daily-red-vs-blue-states.png)
+![Red vs Blue chart](charts/20201125-compare-daily-red-vs-blue-states.png)
 
 ## New chart comparing new cases per day vs deaths per day (x 20 for visible comparison)
-![Comparison chart](charts/20201124-comparison-chart.png)
+![Comparison chart](charts/20201125-comparison-chart.png)
 
 ## New chart comparing new cases per day vs recoveries per day
-![Recovery chart](charts/20201124-comparison-recovery-chart.png)
+![Recovery chart](charts/20201125-comparison-recovery-chart.png)
 
 ## New chart comparing all US territories (cases and deaths x 20)
-![Territories chart](charts/20201124-compare-US-territories.png)
+![Territories chart](charts/20201125-compare-US-territories.png)
 
